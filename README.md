@@ -16,4 +16,3 @@ commands:
 artifacts:
 files:
 - target/*.jar
-
